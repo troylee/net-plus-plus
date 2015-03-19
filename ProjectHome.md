@@ -1,0 +1,1 @@
+This project developed on top of Open Source Project - QuickNet to include more types of Neural Network training algorithms and structures for automatic speech recognition. Right now this project is mainly for self use.
